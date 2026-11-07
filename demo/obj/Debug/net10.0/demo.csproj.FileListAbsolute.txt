@@ -1,0 +1,14 @@
+C:\martin\demo\demo\bin\Debug\net10.0\demo.exe
+C:\martin\demo\demo\bin\Debug\net10.0\demo.deps.json
+C:\martin\demo\demo\bin\Debug\net10.0\demo.runtimeconfig.json
+C:\martin\demo\demo\bin\Debug\net10.0\demo.dll
+C:\martin\demo\demo\bin\Debug\net10.0\demo.pdb
+C:\martin\demo\demo\obj\Debug\net10.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\martin\demo\demo\obj\Debug\net10.0\demo.AssemblyInfoInputs.cache
+C:\martin\demo\demo\obj\Debug\net10.0\demo.AssemblyInfo.cs
+C:\martin\demo\demo\obj\Debug\net10.0\demo.csproj.CoreCompileInputs.cache
+C:\martin\demo\demo\obj\Debug\net10.0\demo.dll
+C:\martin\demo\demo\obj\Debug\net10.0\refint\demo.dll
+C:\martin\demo\demo\obj\Debug\net10.0\demo.pdb
+C:\martin\demo\demo\obj\Debug\net10.0\demo.genruntimeconfig.cache
+C:\martin\demo\demo\obj\Debug\net10.0\ref\demo.dll
